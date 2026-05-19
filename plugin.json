@@ -2,11 +2,11 @@
   "basePackage": "eu.darkbot.carnage.camper",
   "name": "Carnage Camper",
   "author": "Carnage",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "minVersion": "1.120",
   "supportedVersion": "1.131",
   "features": [
-    "a.a.a.a.a.CarnageCamperBehavior"
+    "eu.darkbot.carnage.camper.behaviours.CarnageCamperBehavior"
   ],
   "discord": "https://discord.gg/egPenNhX7g",
   "donation": "https://discord.gg/egPenNhX7g",
