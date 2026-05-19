@@ -1,0 +1,15 @@
+{
+  "basePackage": "eu.darkbot.carnage.camper",
+  "name": "Carnage Camper",
+  "author": "Carnage",
+  "version": "0.4.0",
+  "minVersion": "1.120",
+  "supportedVersion": "1.131",
+  "features": [
+    "eu.darkbot.carnage.camper.behaviours.CarnageCamperBehavior"
+  ],
+  "discord": "https://discord.gg/egPenNhX7g",
+  "donation": "https://discord.gg/egPenNhX7g",
+  "download": "https://github.com/Carnage9514/Carnage-Camper/releases/download/latest/CarnageCamper.jar",
+  "update": "https://raw.githubusercontent.com/Carnage9514/Carnage-Camper/main/plugin.json"
+}
