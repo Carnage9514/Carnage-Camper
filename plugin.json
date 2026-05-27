@@ -2,7 +2,7 @@
   "basePackage": "eu.darkbot.carnage.camper",
   "name": "Carnage Camper",
   "author": "Carnage",
-  "version": "0.4.23",
+  "version": "0.4.29",
   "minVersion": "1.120",
   "supportedVersion": "1.131",
   "features": [
